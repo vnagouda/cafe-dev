@@ -1,0 +1,2 @@
+[06-Dec-2024 18:05:07 Europe/Berlin] PHP Warning:  Undefined array key "action" in C:\xampp\htdocs\cafe2\user\cart_api.php on line 23
+[06-Dec-2024 18:05:07 Europe/Berlin] PHP Warning:  Undefined array key "action" in C:\xampp\htdocs\cafe2\user\cart_api.php on line 45
