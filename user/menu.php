@@ -92,7 +92,7 @@ $result = $conn->query($sql);
 						})
 						.then(data => {
 							if (data.status === 'success') {
-								alert('Item added to cart successfully!');
+								showToast('Item added successfully!');
 							} else {
 								console.error('API error:', data.message);
 								alert('Failed to add item to cart.');
