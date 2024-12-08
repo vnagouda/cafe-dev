@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "cafe-db-cluster-instance-1.c1sz2xjfrj1w.us-east-1.rds.amazonaws.com";
+$username = "admin"; // Replace with your RDS master username
+$password = "Talent14#"; // Replace with your RDS master password
 $dbname = "cafe_db";
 
 // Create connection
